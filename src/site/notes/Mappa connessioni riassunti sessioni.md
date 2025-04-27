@@ -125,3 +125,11 @@
 - Investigare la terza croce (Croce della Vita)
 - Mantenere un profilo basso per evitare l'attenzione di Tricruxia
 - Decidere se continuare a liberare le divinità imprigionate
+
+#pg-luthien
+#pg-alteryx
+#pg-drathen
+#pg-miret
+#pg-sofia
+#pg-billy
+#pg-zifarion

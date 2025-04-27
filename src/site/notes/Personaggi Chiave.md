@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi-chiave/"}
+{"dg-publish":true,"permalink":"/personaggi-chiave/","tags":["pg-alteryx","pg-billy","pg-drathen","pg-luthien","pg-miret","pg-sofia","pg-zifarion"]}
 ---
 
 # Personaggi Chiave e loro Evoluzione
@@ -57,3 +57,19 @@
 - Gruppo ↔ Tricruxia: Opposizione all'impero
 - Gruppo ↔ Esercito imperiale: Scontri diretti
 - Interno al gruppo: Tensioni sulla leadership tra Alteryx e Drathen
+
+#pg-luthien
+#pg-alteryx
+#pg-drathen
+#pg-miret
+#pg-sofia
+#pg-billy
+#pg-zifarion
+
+[[Personaggi/Luthien\|Personaggi/Luthien]]
+[[Personaggi/Alteryx\|Personaggi/Alteryx]]
+[[Personaggi/Drathen\|Personaggi/Drathen]]
+[[Personaggi/Miret\|Personaggi/Miret]]
+[[Personaggi/Sofia\|Personaggi/Sofia]]
+[[Personaggi/Billy\|Personaggi/Billy]]
+[[Personaggi/Zifarion\|Personaggi/Zifarion]]

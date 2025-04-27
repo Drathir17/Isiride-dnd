@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temi-e-questioni/"}
+{"dg-publish":true,"permalink":"/temi-e-questioni/","tags":["pg-alteryx","pg-drathen","pg-luthien","pg-billy","pg-miret","pg-sofia","pg-zifarion"]}
 ---
 
 # Temi e Questioni Principali
