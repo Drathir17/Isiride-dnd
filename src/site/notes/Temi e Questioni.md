@@ -37,7 +37,7 @@
 ## Conflitto con l'Impero
 - **Resistenza e Alleanze**
   - Battaglia contro l'esercito imperiale
-  - Incontro con Zifarion
+  - Incontro con [[Personaggi/Zifarion\|Zifarion]]
   - Formazione di nuove alleanze
 - **Conseguenze Politiche**
   - Tensioni a Port Trifort
@@ -46,7 +46,7 @@
 
 ## L'Influenza di Vecna
 - **Manifestazioni del Potere**
-  - Morte e resurrezione di Billy
+  - Morte e resurrezione di [[Personaggi/Billy\|Billy]]
   - Corruzione e manipolazione
   - Presenza nelle terre contaminate
 - **Effetti sul Gruppo**

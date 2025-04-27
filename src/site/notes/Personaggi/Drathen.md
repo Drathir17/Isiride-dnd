@@ -64,15 +64,3 @@ Drathen ha un portamento nobile e un fisico atletico, caratteristiche scolpite d
 Porta sempre l’amuleto di Selûne al petto, un simbolo della sua fede e del legame con la sua famiglia. Nelle notti più serene, Drathen si ferma a osservare il cielo, in attesa che le stelle o la luna gli rivelino visioni per guidare i suoi passi. Ogni notte è una preghiera, ogni sogno una promessa, mentre continua a camminare verso il suo destino, seguendo il richiamo della sua dea.
 
 ---
-
-[[Personaggi Chiave\|Personaggi Chiave]]
-
-## Apparizioni
-- [[Riassunti sessioni/04-01-25 inizio\|Riassunti sessioni/04-01-25 inizio]]
-- [[Riassunti sessioni/03-04-25\|Riassunti sessioni/03-04-25]]
-- [[Riassunti sessioni/14-04-25\|Riassunti sessioni/14-04-25]]
-- [[Riassunti sessioni/15-04-25\|Riassunti sessioni/15-04-25]]
-- [[Mappa connessioni riassunti sessioni\|Mappa connessioni riassunti sessioni]]
-- [[Collegamenti Temporali\|Collegamenti Temporali]]
-- [[Luoghi e Artefatti\|Luoghi e Artefatti]]
-- [[Temi e Questioni\|Temi e Questioni]]

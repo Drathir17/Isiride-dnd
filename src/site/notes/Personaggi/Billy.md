@@ -29,11 +29,3 @@ Un anziano signore che ha l'aspetto di un pescatore, ha trascorso la vita in mar
 ---
 ## Storia vera
 Dopo una tempesta in mare Mario ha trovato questo strano uovo in una delle sue reti. Dopo essere tornato a terra e portato l'uovo in casa, il calore della casa lo ha come riattivato e da lì a qualche ora è nato billy. Mario aveva sentito parlare di creature marine chiamate Sirene, ma ormai si pensava fosse solo una leggenda così come le tante storie sulla dea del mare Mireth. Da quando è nato Billy, ha iniziato a credere che tutte le leggende del mare fossero vere.
-
-## Apparizioni
-- [[Riassunti sessioni/04-04-25\|Riassunti sessioni/04-04-25]]
-- [[Riassunti sessioni/08-04-25\|Riassunti sessioni/08-04-25]]
-- [[Mappa connessioni riassunti sessioni\|Mappa connessioni riassunti sessioni]]
-- [[Collegamenti Temporali\|Collegamenti Temporali]]
-- [[Luoghi e Artefatti\|Luoghi e Artefatti]]
-- [[Temi e Questioni\|Temi e Questioni]]

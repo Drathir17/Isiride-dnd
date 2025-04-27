@@ -23,7 +23,7 @@ La diffusione del culto delle [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre C
 
 ---
 # Menu
-[[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
+[[Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
 [[Temi e Questioni\|Temi e Questioni]]
 [[Personaggi Chiave\|Evoluzione dei Personaggi]]
 [[Luoghi e Artefatti\|Luoghi e Artefatti]]
