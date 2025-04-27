@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collegamenti-temporali/"}
+{"dg-publish":true,"permalink":"/collegamenti-temporali/","tags":["alteryx","billy","drathen","miret","luthien","sofia","zifarion"]}
 ---
 
 # Collegamenti Temporali delle Sessioni
@@ -66,10 +66,3 @@
 - [[Riassunti sessioni/08-04-25\|Riassunti sessioni/08-04-25]] - Manifestazione dei poteri oscuri
 - [[Riassunti sessioni/14-04-25\|Riassunti sessioni/14-04-25]] - Effetti sul gruppo
 
-#pg-luthien
-#pg-alteryx
-#pg-drathen
-#pg-miret
-#pg-sofia
-#pg-billy
-#pg-zifarion

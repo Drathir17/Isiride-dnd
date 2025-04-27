@@ -19,3 +19,5 @@ La magia, un tempo parte integrante della società, è ora vista con sospetto e 
 In tutto Isiride, il culto de Le tre Croci è il più diffuso. I fedeli si riuniscono in preghiera in ogni città o borgo, celebrando riti e cerimonie che uniscono la popolazione. Questo culto, che un tempo era legato principalmente agli elfi, è diventato nel corso dei secoli il culto del popolo. Secondo le leggende, Tricruxia veglia sul Velo, una barriera mistica che separa il mondo dei mortali dalle dimensioni oscure e pericolose. Le sue tre croci sono i pilastri che mantengono il Velo intatto, impedendo alle creature maligne di oltrepassarlo e invadere il reame terreno.
 
 La diffusione del culto delle Tre Croci ha contribuito a creare un senso di unità e appartenenza tra le diverse razze dell’impero. Tuttavia, nonostante questa apparente armonia, le tensioni sociali e politiche sono sempre in agguato, pronte a esplodere in qualsiasi momento.
+
+---

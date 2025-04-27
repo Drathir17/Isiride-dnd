@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/sofia/","tags":["pg-sofia"]}
+{"dg-publish":true,"permalink":"/personaggi/sofia/","tags":["sofia"]}
 ---
 
 # Sofia / Lilith
@@ -15,3 +15,12 @@ Arcidiavola, connessa al velo, possiede poteri di controllo mentale.
 - [[Collegamenti Temporali\|Collegamenti Temporali]]
 - [[Luoghi e Artefatti\|Luoghi e Artefatti]]
 - [[Temi e Questioni\|Temi e Questioni]]
+
+---
+tags:
+  - sofia
+Aggiornato a: 27-04-2025  21:24
+dg-home: null
+dg-publish: true
+aliases: null
+---

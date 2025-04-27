@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/miret/","tags":["pg-miret"]}
+{"dg-publish":true,"permalink":"/personaggi/miret/","tags":["miret"]}
 ---
 
 # Miret / Calypso / Liara
@@ -15,3 +15,12 @@ Dea del mare, imprigionata e poi liberata dal gruppo alla Croce della Rinascita.
 - [[Collegamenti Temporali\|Collegamenti Temporali]]
 - [[Luoghi e Artefatti\|Luoghi e Artefatti]]
 - [[Temi e Questioni\|Temi e Questioni]]
+
+---
+tags:
+  - miret
+Aggiornato a: 27-04-2025  21:24
+dg-home: null
+dg-publish: true
+aliases: null
+---

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/drathen/","tags":["pg-drathen"]}
+{"dg-publish":true,"permalink":"/personaggi/drathen/","tags":["drathen"]}
 ---
 
-# Drathen
 # Drathen
 
 ![Pasted image 20250427213020.png](/img/user/Pasted%20image%2020250427213020.png)

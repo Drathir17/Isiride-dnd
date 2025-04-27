@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mappa-connessioni-riassunti-sessioni/"}
+{"dg-publish":true,"permalink":"/mappa-connessioni-riassunti-sessioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"]}
 ---
 
 # Mappa delle Connessioni - Riassunti Sessioni
@@ -126,10 +126,3 @@
 - Mantenere un profilo basso per evitare l'attenzione di Tricruxia
 - Decidere se continuare a liberare le divinità imprigionate
 
-#pg-luthien
-#pg-alteryx
-#pg-drathen
-#pg-miret
-#pg-sofia
-#pg-billy
-#pg-zifarion

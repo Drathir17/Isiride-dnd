@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/billy/","tags":["pg-billy"]}
+{"dg-publish":true,"permalink":"/personaggi/billy/","tags":["billy"]}
 ---
 
 # Billy

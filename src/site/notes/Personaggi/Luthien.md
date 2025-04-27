@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/luthien/","tags":["pg-luthien"]}
+{"dg-publish":true,"permalink":"/personaggi/luthien/","tags":["luthien"]}
 ---
 
 # Luthien
@@ -16,3 +16,12 @@ Elfa Grigia della luna, abile con la magia, ricercatrice di informazioni sulla d
 - [[Collegamenti Temporali\|Collegamenti Temporali]]
 - [[Luoghi e Artefatti\|Luoghi e Artefatti]]
 - [[Temi e Questioni\|Temi e Questioni]]
+
+---
+tags:
+  - luthien
+Aggiornato a: 27-04-2025  21:23
+dg-home: null
+dg-publish: true
+aliases: null
+---

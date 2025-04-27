@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/alteryx/","tags":["pg-alteryx"]}
+{"dg-publish":true,"permalink":"/personaggi/alteryx/","tags":["alteryx"]}
 ---
 
 # Alteryx
@@ -16,3 +16,12 @@ Mezz'elfo, ex generale di Port Trifort, ha un occhio maledetto e segue Vecna. Ot
 - [[Collegamenti Temporali\|Collegamenti Temporali]]
 - [[Luoghi e Artefatti\|Luoghi e Artefatti]]
 - [[Temi e Questioni\|Temi e Questioni]]
+
+---
+tags:
+  - alteryx
+Aggiornato a: 27-04-2025  21:23
+dg-home: null
+dg-publish: true
+aliases: null
+---

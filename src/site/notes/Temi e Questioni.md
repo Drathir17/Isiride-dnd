@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/temi-e-questioni/","tags":["pg-alteryx","pg-drathen","pg-luthien","pg-billy","pg-miret","pg-sofia","pg-zifarion"]}
+{"dg-publish":true,"permalink":"/temi-e-questioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"]}
 ---
 
 # Temi e Questioni Principali
@@ -94,3 +94,26 @@
   - Impatto delle scelte attuali
   - Evoluzione dei poteri e delle alleanze
   - Destino dei personaggi principali
+
+#luthien
+#alteryx
+#drathen
+#miret
+#sofia
+#billy
+#zifarion
+
+---
+tags:
+  - pg-alteryx
+  - pg-drathen
+  - pg-luthien
+  - pg-billy
+  - pg-miret
+  - pg-sofia
+  - pg-zifarion
+Aggiornato a: 27-04-2025  21:05
+dg-home: 
+dg-publish: true
+aliases:
+---
