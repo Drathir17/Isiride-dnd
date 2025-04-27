@@ -55,6 +55,5 @@
 - Mario ↔ Billy: Legame padre-figlio adottivo
 
 ### Conflitti
-- Gruppo ↔ Tricruxia: Opposizione all'impero
+- Gruppo ↔ [[Personaggi/Tricruxia\|Tricruxia]]: Opposizione all'impero
 - Gruppo ↔ Esercito imperiale: Scontri diretti
-- Interno al gruppo: Tensioni sulla leadership tra Alteryx e Drathen

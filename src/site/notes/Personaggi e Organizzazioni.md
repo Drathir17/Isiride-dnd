@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi-e-organizzazioni/","tags":["alteryx","asphodel","billy","crane-merrino","daywish","dr-vexor","drathen","luthien","miret","sofia","zifarion","le-tre-croci"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/personaggi-e-organizzazioni/","tags":["alteryx","asphodel","billy","crane-merrino","daywish","dr-vexor","drathen","luthien","miret","sofia","zifarion","le-tre-croci","tricruxia"],"noteIcon":""}
 ---
 
 - [[Personaggi/Alteryx\|Alteryx]]
@@ -15,3 +15,4 @@
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
 - [[Personaggi/Tricruxia\|Tricruxia]]
 - [[Personaggi/Zifarion\|Zifarion]]
+- [[Personaggi Chiave\|Personaggi Chiave]]

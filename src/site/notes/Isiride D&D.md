@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/isiride-d-and-d/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+# Menu
+[[Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
+[[Temi e Questioni\|Temi e Questioni]]
+[[Personaggi Chiave\|Evoluzione dei Personaggi]]
+[[Luoghi e Artefatti\|Luoghi e Artefatti]]
+[[Il Velo\|Il Velo]]
 # ISIRIDE
 L'impero di Isiride vive un’era di pace apparente sotto il dominio dell’imperatore Aureliandros De Sanctis. I territori dell’impero sono vasti e variegati, con grandi città che brillano nel lusso più sfrenato. Queste città sono governate da gilde potenti o nobili locali, che spesso sono solo marionette nelle mani di associazioni criminali che tirano realmente le fila del potere.
 
@@ -22,9 +28,3 @@ In tutto Isiride, il culto de Le tre Croci è il più diffuso. I fedeli si riuni
 La diffusione del culto delle [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]] ha contribuito a creare un senso di unità e appartenenza tra le diverse razze dell’impero. Tuttavia, nonostante questa apparente armonia, le tensioni sociali e politiche sono sempre in agguato, pronte a esplodere in qualsiasi momento.
 
 ---
-# Menu
-[[Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
-[[Temi e Questioni\|Temi e Questioni]]
-[[Personaggi Chiave\|Evoluzione dei Personaggi]]
-[[Luoghi e Artefatti\|Luoghi e Artefatti]]
-[[Il Velo\|Il Velo]]
