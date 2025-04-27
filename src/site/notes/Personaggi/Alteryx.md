@@ -18,10 +18,3 @@ Mezz'elfo, ex generale di Port Trifort, ha un occhio maledetto e segue Vecna. Ot
 - [[Temi e Questioni\|Temi e Questioni]]
 
 ---
-tags:
-  - alteryx
-Aggiornato a: 27-04-2025  21:23
-dg-home: null
-dg-publish: true
-aliases: null
----

@@ -4,7 +4,7 @@
 
 # Drathen
 
-![Pasted image 20250427213020.png](/img/user/Pasted%20image%2020250427213020.png)
+![Pasted image 20250427213020.png](/img/user/Immagini/Pasted%20image%2020250427213020.png)
 
 **Nome:** Drathen  
 **Razza:** Popolo della Luna  
