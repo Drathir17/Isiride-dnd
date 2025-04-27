@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/zifarion/","tags":["zifarion"]}
+{"dg-publish":true,"permalink":"/personaggi/zifarion/","tags":["zifarion"],"noteIcon":""}
 ---
 
 # Zifarion
 
-[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi Chiave\|Personaggi Chiave]]
 
 Drago di bronzo, interessato alla conoscenza, ha deciso di viaggiare con il gruppo.
 

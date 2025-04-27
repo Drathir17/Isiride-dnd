@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/luoghi-e-artefatti/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"]}
+{"dg-publish":true,"permalink":"/luoghi-e-artefatti/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"],"noteIcon":""}
 ---
 
 # Luoghi e Artefatti Significativi

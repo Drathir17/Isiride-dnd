@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mappa-connessioni-riassunti-sessioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"]}
+{"dg-publish":true,"permalink":"/mappa-connessioni-riassunti-sessioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"],"noteIcon":""}
 ---
 
 # Mappa delle Connessioni - Riassunti Sessioni

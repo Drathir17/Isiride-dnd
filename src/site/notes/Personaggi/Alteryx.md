@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/alteryx/","tags":["alteryx"]}
+{"dg-publish":true,"permalink":"/personaggi/alteryx/","tags":["alteryx"],"noteIcon":""}
 ---
 
 # Alteryx
 
-[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi Chiave\|Personaggi Chiave]]
 
 Mezz'elfo, ex generale di Port Trifort, ha un occhio maledetto e segue Vecna. Ottenuto l'arco divino dell'amore dopo la trasformazione di Miret.
 

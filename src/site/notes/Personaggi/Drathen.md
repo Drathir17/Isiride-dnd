@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/drathen/","tags":["drathen"]}
+{"dg-publish":true,"permalink":"/personaggi/drathen/","tags":["drathen"],"noteIcon":""}
 ---
 
 # Drathen
@@ -65,7 +65,7 @@ Porta sempre l’amuleto di Selûne al petto, un simbolo della sua fede e del le
 
 ---
 
-[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi Chiave\|Personaggi Chiave]]
 
 ## Apparizioni
 - [[Riassunti sessioni/04-01-25 inizio\|Riassunti sessioni/04-01-25 inizio]]

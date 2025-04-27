@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/asphodel/","tags":["asphodel"]}
+{"dg-publish":true,"permalink":"/personaggi/asphodel/","tags":["asphodel"],"noteIcon":""}
 ---
 
 ![Pasted image 20250427225306.png](/img/user/Immagini/Pasted%20image%2020250427225306.png)

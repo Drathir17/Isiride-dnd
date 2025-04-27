@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/crane-merrino/","tags":["crane-merrino"]}
+{"dg-publish":true,"permalink":"/personaggi/crane-merrino/","tags":["crane-merrino"],"noteIcon":""}
 ---
 
 ![Pasted image 20250427230051.png](/img/user/Immagini/Pasted%20image%2020250427230051.png)

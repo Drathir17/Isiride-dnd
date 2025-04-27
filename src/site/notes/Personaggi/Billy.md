@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/billy/","tags":["billy"]}
+{"dg-publish":true,"permalink":"/personaggi/billy/","tags":["billy"],"noteIcon":""}
 ---
 
 ![Pasted image 20250427225911.png](/img/user/Immagini/Pasted%20image%2020250427225911.png)

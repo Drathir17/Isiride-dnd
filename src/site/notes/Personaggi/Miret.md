@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/miret/","tags":["miret"]}
+{"dg-publish":true,"permalink":"/personaggi/miret/","tags":["miret"],"noteIcon":""}
 ---
 
 # Miret / Calypso / Liara
 
-[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi Chiave\|Personaggi Chiave]]
 
 Dea del mare, imprigionata e poi liberata dal gruppo alla Croce della Rinascita.
 

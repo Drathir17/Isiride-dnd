@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collegamenti-temporali/","tags":["alteryx","billy","drathen","miret","luthien","sofia","zifarion"]}
+{"dg-publish":true,"permalink":"/collegamenti-temporali/","tags":["alteryx","billy","drathen","miret","luthien","sofia","zifarion"],"noteIcon":""}
 ---
 
 # Collegamenti Temporali delle Sessioni

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/template/modello/"}
+{"dg-publish":true,"permalink":"/template/modello/","noteIcon":""}
 ---
 

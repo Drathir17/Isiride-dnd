@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/sofia/","tags":["sofia"]}
+{"dg-publish":true,"permalink":"/personaggi/sofia/","tags":["sofia"],"noteIcon":""}
 ---
 
 ![Pasted image 20250427224815.png](/img/user/Immagini/Pasted%20image%2020250427224815.png)
@@ -31,7 +31,7 @@ Sophia Triomphara è una figura enigmatica e potente, il cui destino è intrecci
 ## Il suo ruolo
 Il compito principale che Tricruxia le ha affidato è quello di permettere alle anime di entrare nel fiume Acheron che verranno trascinate dalla corrente del fiume fino a valle alle porte de **La Croce della Rinascita**. Per fare ciò venivano organizzate delle messe ai defunti, in genere ciò avveniva per tutte le persone che in vita non sono mai stati sulla retta via o persone che ne faceva espressa richiesta prima della morte. Sophia durante questo rituale chiedeva al morto come voleva espiare le proprie colpe: se essere trascinato tra atroci sofferenze nell'Acheron fino alla foce della vita per poi rinascere o se espiare le proprie colpe nell'ade per sempre. Ovviamente la richiesta di rinascita aveva un prezzo anche per le anime buone, la sofferenza dell'Acheron. In ogni caso anche senza il rituale Sophia aveva la possibilità di interrogare le anime impure prima di dare loro accesso all'ade.
 
-[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi Chiave\|Personaggi Chiave]]
 
 Arcidiavola, connessa al velo, possiede poteri di controllo mentale.
 

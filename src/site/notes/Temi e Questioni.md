@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/temi-e-questioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion"]}
+{"dg-publish":true,"permalink":"/temi-e-questioni/","tags":["alteryx","billy","drathen","luthien","miret","sofia","zifarion","le-tre-croci"],"noteIcon":""}
 ---
 
 # Temi e Questioni Principali
 
-## Il Velo
+## [[Il Velo\|Il Velo]]
 - **Natura e Importanza**
   - Barriera tra piani di esistenza
   - Possibile fonte di instabilità dimensionale
   - Connessione con antichi artefatti e poteri
-- **Connessione con Sofia/Lilith**
+- **Connessione con [[Personaggi/Sofia\|Sofia/Lilith]]**
   - Rivelazione della sua conoscenza sul velo
   - Piano per raggiungere Waterdeep e studiare il fenomeno
   - Possibile legame con gli eventi storici dimenticati
 
-## Le Tre Croci
+## [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
 - **Significato Strategico**
   - Croce della Rinascita: Legata alla resurrezione e al rinnovamento
   - Croce della Morte: Connessa al potere di Vecna
@@ -25,7 +25,7 @@
   - Possibile chiave per comprendere il velo
 
 ## Divinità Marine
-- **Miret/Calypso**
+- **[[Personaggi/Miret\|Miret/Calypso]]**
   - Trasformazione da Liara
   - Influenza sui fedeli e sul mare
   - Conflitto con l'impero e persecuzione dei seguaci
@@ -94,26 +94,3 @@
   - Impatto delle scelte attuali
   - Evoluzione dei poteri e delle alleanze
   - Destino dei personaggi principali
-
-#luthien
-#alteryx
-#drathen
-#miret
-#sofia
-#billy
-#zifarion
-
----
-tags:
-  - pg-alteryx
-  - pg-drathen
-  - pg-luthien
-  - pg-billy
-  - pg-miret
-  - pg-sofia
-  - pg-zifarion
-Aggiornato a: 27-04-2025  21:05
-dg-home: 
-dg-publish: true
-aliases:
----

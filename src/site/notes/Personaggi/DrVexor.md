@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/dr-vexor/","tags":["dr-vexor"]}
+{"dg-publish":true,"permalink":"/personaggi/dr-vexor/","tags":["dr-vexor"],"noteIcon":""}
 ---
 
 ![Pasted image 20250427225058.png](/img/user/Immagini/Pasted%20image%2020250427225058.png)
