@@ -4,7 +4,7 @@
 
 # Billy
 
-[[Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
 
 Tritone, nato da un uovo trovato da Mario, ucciso e poi resuscitato.
 

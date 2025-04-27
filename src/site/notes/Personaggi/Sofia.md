@@ -4,7 +4,7 @@
 
 # Sofia / Lilith
 
-[[Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
 
 Arcidiavola, connessa al velo, possiede poteri di controllo mentale.
 

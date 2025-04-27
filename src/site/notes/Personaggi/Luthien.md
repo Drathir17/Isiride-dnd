@@ -4,7 +4,7 @@
 
 # Luthien
 
-[[Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
 
 Elfa Grigia della luna, abile con la magia, ricercatrice di informazioni sulla dea del mare, ha rifiutato di diventare una succube di Lilith.
 

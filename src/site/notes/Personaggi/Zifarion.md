@@ -4,7 +4,7 @@
 
 # Zifarion
 
-[[Personaggi Chiave\|Personaggi Chiave]]
+[[Personaggi/Personaggi Chiave\|Personaggi Chiave]]
 
 Drago di bronzo, interessato alla conoscenza, ha deciso di viaggiare con il gruppo.
 
