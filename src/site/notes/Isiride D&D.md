@@ -19,21 +19,21 @@
 - [[Personaggi/Zifarion\|Zifarion]]
 
 { .block-language-dataview}
-## 🗿Luoghi
-### Città e insediamenti
+## 📍Luoghi
+### 🏙️Città e insediamenti
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
 - [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 - [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
 - [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
 
 { .block-language-dataview}
-### Luoghi Mistici
+### ⛪Luoghi Mistici
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 
 { .block-language-dataview}
-### Altri Luoghi
+### 📌Altri Luoghi
 - [[Luoghi/Altri Luoghi/Archivio delle Ere Perdute\|Archivio delle Ere Perdute]]
 
 { .block-language-dataview}
