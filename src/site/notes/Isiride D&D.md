@@ -3,7 +3,7 @@
 ---
 
 # Menu
-## PERSONAGGI E ORGANIZZAZIONI
+##  Personaggi e Organizzazioni 
 - [[Personaggi/Asphodel\|Asphodel]]
 - [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Billy\|Billy]]
