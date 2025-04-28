@@ -48,6 +48,7 @@
 - [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
 - [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Il Velo\|Il Velo]]
+- [[Artefatti/Falce Della Morte\|Falce Della Morte]]
 
 { .block-language-dataview}
 [[Temi e Questioni\|Temi e Questioni]]
