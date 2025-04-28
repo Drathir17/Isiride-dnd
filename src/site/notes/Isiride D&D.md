@@ -14,7 +14,6 @@
 - [[Personaggi/Miret\|Miret]]
 - [[Personaggi/Organizzazioni/Daywish\|Daywish]]
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
-- [[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
 - [[Personaggi/Sofia\|Sofia]]
 - [[Personaggi/Tricruxia\|Tricruxia]]
 - [[Personaggi/Zifarion\|Zifarion]]
@@ -51,6 +50,8 @@
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 
 { .block-language-dataview}
+## Altri Menu
+
 [[Temi e Questioni\|Temi e Questioni]]
 [[Personaggi Chiave\|Evoluzione dei Personaggi]]
 
