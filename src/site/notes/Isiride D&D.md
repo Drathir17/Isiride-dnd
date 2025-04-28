@@ -3,11 +3,56 @@
 ---
 
 # Menu
-[[Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
+## PERSONAGGI E ORGANIZZAZIONI
+- [[Personaggi/Alteryx\|Alteryx]]
+- [[Personaggi/Billy\|Billy]]
+- [[Personaggi/Asphodel\|Asphodel]]
+- [[Personaggi/Drathen\|Drathen]]
+- [[Personaggi/Luthien\|Luthien]]
+- [[Personaggi/Miret\|Miret]]
+- [[Personaggi/Crane Merrino\|Crane Merrino]]
+- [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
+- [[Personaggi/Organizzazioni/Daywish\|Daywish]]
+- [[Personaggi/Sofia\|Sofia]]
+- [[Personaggi/Tricruxia\|Tricruxia]]
+- [[Personaggi/Zifarion\|Zifarion]]
+- [[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
+
+{ .block-language-dataview}
+## Luoghi
+### Città e insediamenti
+- [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
+- [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
+- [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
+- [[Luoghi/Città e Insediamenti/Pozzuoli\|Pozzuoli]]
+
+{ .block-language-dataview}
+### Luoghi Mistici
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
+
+{ .block-language-dataview}
+### Altri Luoghi
+- [[Luoghi/Altri Luoghi/Archivio delle Ere Perdute\|Archivio delle Ere Perdute]]
+
+{ .block-language-dataview}
+## Artefatti
+- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
+- [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
+- [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
+- [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
+- [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
+- [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
+- [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
+- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
+- [[Artefatti/Il Velo\|Il Velo]]
+
+{ .block-language-dataview}
 [[Temi e Questioni\|Temi e Questioni]]
 [[Personaggi Chiave\|Evoluzione dei Personaggi]]
-[[Luoghi e Artefatti\|Luoghi e Artefatti]]
-[[Il Velo\|Il Velo]]
+
 # ISIRIDE
 L'impero di Isiride vive un’era di pace apparente sotto il dominio dell’imperatore Aureliandros De Sanctis. I territori dell’impero sono vasti e variegati, con grandi città che brillano nel lusso più sfrenato. Queste città sono governate da gilde potenti o nobili locali, che spesso sono solo marionette nelle mani di associazioni criminali che tirano realmente le fila del potere.
 

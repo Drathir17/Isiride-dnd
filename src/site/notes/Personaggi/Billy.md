@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personaggi/billy/","tags":["billy"],"noteIcon":""}
 ---
 
-![Pasted image 20250427225911.png](/img/user/Immagini/Pasted%20image%2020250427225911.png)
+![Pasted image 20250427225911.png](/img/user/_Files/Immagini/Pasted%20image%2020250427225911.png)
 # Billy
 
 Billy è un bambino di circa 8 anni che aiuta suo nonno Mario pescando con la loro piccola barca.

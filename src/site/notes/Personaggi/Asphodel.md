@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personaggi/asphodel/","tags":["asphodel"],"noteIcon":""}
 ---
 
-![Pasted image 20250427225306.png](/img/user/Immagini/Pasted%20image%2020250427225306.png)
+![Pasted image 20250427225306.png](/img/user/_Files/Immagini/Pasted%20image%2020250427225306.png)
 # Asphodel
 
 Anche nella non morte, la Figlia di Lilith Asphodel mantiene un aspetto straordinariamente attraente, ma ora la sua bellezza è accompagnata da un'aura di decadenza e pericolo. Ha una presenza inquietante che attira l'attenzione e incute timore. Nonostante questo rimane una delle creature più attraenti e belle del creato.

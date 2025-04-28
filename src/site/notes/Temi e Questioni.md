@@ -4,7 +4,7 @@
 
 # Temi e Questioni Principali
 
-## [[Il Velo\|Il Velo]]
+## [[Artefatti/Il Velo\|Il Velo]]
 - **Natura e Importanza**
   - Barriera tra piani di esistenza
   - Possibile fonte di instabilità dimensionale

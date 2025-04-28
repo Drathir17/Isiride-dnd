@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/artefatti/il-velo/","tags":["il-velo"],"noteIcon":""}
+---
+
+# Il Velo
+Secondo le antiche leggende, il Velo è descritto come una potente barriera magica protetto dalle Tre Croci, creato per impedire l'accesso a creature malvagie o dotate di intenzioni nefaste nel nostro mondo. Grazie alla presenza di questa barriera, la magia stessa ha subito una drastica diminuzione, portando a un'epoca di relativa pace. Con il potere arcano fortemente limitato, solo pochissimi individui sono ancora in grado di manipolarlo. Coloro che riescono a padroneggiare la magia sono spesso dotati di abilità innate straordinarie, oppure sono stati addestrati in segreto, lontano dagli occhi indiscreti. Nell'Impero, l'uso della magia non è visto di buon occhio, soprattutto dalla popolazione, che nutre un profondo timore verso di essa. Questa diffidenza è alimentata da storie oscure tramandate attraverso le generazioni, racconti che narrano di antichi dèi e potenti maghi che tentarono di conquistare il mondo con il loro potere. Nonostante ciò, il Velo comporta anche un prezzo elevato: isola ulteriormente chiunque osi avvicinarsi alla magia, alimentando mistero e sospetti attorno a questi rari praticanti.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personaggi/dr-vexor/","tags":["dr-vexor"],"noteIcon":""}
 ---
 
-![Pasted image 20250427225058.png](/img/user/Immagini/Pasted%20image%2020250427225058.png)
+![Pasted image 20250427225058.png](/img/user/_Files/Immagini/Pasted%20image%2020250427225058.png)
 # Dr. Vexor, il Chirurgo delle Catene
 
 Dr. Vexor è un Kyton alto e snello, con la pelle pallida e cicatrici rituali che decorano il suo corpo. I suoi occhi brillano di una luce fredda e calcolatrice, e il suo sorriso è sempre presente, ma privo di calore. Indossa un mantello fatto di catene che tintinnano sinistramente ad ogni suo movimento.

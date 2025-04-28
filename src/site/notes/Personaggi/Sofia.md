@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personaggi/sofia/","tags":["sofia"],"noteIcon":""}
 ---
 
-![Pasted image 20250427224815.png](/img/user/Immagini/Pasted%20image%2020250427224815.png)
+![Pasted image 20250427224815.png](/img/user/_Files/Immagini/Pasted%20image%2020250427224815.png)
 # Sophia Triomphara
 
 Sophia Triomphara è una mezz'elfa di straordinaria bellezza e potenza, figlia della dea Tricruxia. Come rappresentante de **La Croce della Morte**, Sophia incarna l'equilibrio tra la vita e la morte, garantendo che le anime dei defunti trovino pace e non ritornino come spiriti inquieti.
