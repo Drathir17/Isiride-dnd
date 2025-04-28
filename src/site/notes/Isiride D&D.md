@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/isiride-d-and-d/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# Menu
-##  Personaggi e Organizzazioni 
+# 📚Menu
+## 🧚🏻‍♀️Personaggi e Organizzazioni 
 - [[Personaggi/Asphodel\|Asphodel]]
 - [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Billy\|Billy]]
@@ -19,7 +19,7 @@
 - [[Personaggi/Zifarion\|Zifarion]]
 
 { .block-language-dataview}
-## Luoghi
+## 🗿Luoghi
 ### Città e insediamenti
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
 - [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
@@ -37,7 +37,7 @@
 - [[Luoghi/Altri Luoghi/Archivio delle Ere Perdute\|Archivio delle Ere Perdute]]
 
 { .block-language-dataview}
-## Artefatti
+## ⚔️Artefatti
 - [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
 - [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
 - [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
@@ -50,7 +50,7 @@
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 
 { .block-language-dataview}
-## Altri Menu
+## 🔖Altri Menu
 
 [[Temi e Questioni\|Temi e Questioni]]
 [[Personaggi Chiave\|Evoluzione dei Personaggi]]
