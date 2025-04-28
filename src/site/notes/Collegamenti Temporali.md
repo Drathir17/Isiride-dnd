@@ -40,9 +40,9 @@
   - Piano per trovare Waterdeep
 
 ### Il Viaggio Inizia
-- [[Riassunti sessioni/14-04-25\|Verso Pozzuoli]]
+- [[Riassunti sessioni/14-04-25\|Verso Oliuzop]]
   - La proposta di Lilith a Luthien
-  - Il viaggio verso Pozzuoli
+  - Il viaggio verso Oliuzop
   - L'incontro con l'esercito imperiale
 
 ### Nuove Alleanze

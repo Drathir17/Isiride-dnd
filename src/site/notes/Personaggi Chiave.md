@@ -13,7 +13,7 @@
 - [[Riassunti sessioni/04-04-25\|L'Arco Divino]] - Ottiene l'arco dell'amore
 
 ### [[Personaggi/Alteryx\|Alteryx]] (Mezz'elfo)
-- [[Riassunti sessioni/04-01-25 inizio\|Origini]] - Ex generale di Port Trifort
+- [[Riassunti sessioni/04-01-25 inizio\|Origini]] - Ex generale di Port rifort
 - [[Riassunti sessioni/09-04-25\|Lealtà]] - Gestione dei seguaci imprigionati
 - [[Riassunti sessioni/14-04-25\|Comando]] - Confronto sulla leadership
 - [[Riassunti sessioni/14-04-25\|Liberazione]] - Aiuta a liberare Crane

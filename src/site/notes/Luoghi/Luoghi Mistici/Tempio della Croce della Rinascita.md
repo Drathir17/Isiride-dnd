@@ -4,4 +4,4 @@
 
  - [[Riassunti sessioni/04-04-25\|Liberazione di Miret]]
    - Luogo di prigionia di [[Personaggi/Miret\|Miret]]
-   - Si trova a [[Luoghi/Città e Insediamenti/Pozzuoli\|Pozzuoli]]
+   - Si trova a [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]

@@ -30,7 +30,7 @@
   - Influenza sui fedeli e sul mare
   - Conflitto con l'impero e persecuzione dei seguaci
 - **Culto e Seguaci**
-  - Persecuzione a Pozzuoli
+  - Persecuzione a Oliuzop
   - Resistenza sotterranea
   - Ruolo nella lotta contro l'impero
 
@@ -40,8 +40,8 @@
   - Incontro con [[Personaggi/Zifarion\|Zifarion]]
   - Formazione di nuove alleanze
 - **Conseguenze Politiche**
-  - Tensioni a Port Trifort
-  - Controllo militare di Pozzuoli
+  - Tensioni a Port rifort
+  - Controllo militare di Oliuzop
   - Impatto sulle rotte commerciali
 
 ## L'Influenza di Vecna

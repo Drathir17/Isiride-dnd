@@ -5,33 +5,33 @@
 # Menu
 ## PERSONAGGI E ORGANIZZAZIONI
 - [[Personaggi/Alteryx\|Alteryx]]
-- [[Personaggi/Billy\|Billy]]
 - [[Personaggi/Asphodel\|Asphodel]]
-- [[Personaggi/Drathen\|Drathen]]
-- [[Personaggi/Luthien\|Luthien]]
-- [[Personaggi/Miret\|Miret]]
 - [[Personaggi/Crane Merrino\|Crane Merrino]]
+- [[Personaggi/Billy\|Billy]]
+- [[Personaggi/Drathen\|Drathen]]
+- [[Personaggi/Miret\|Miret]]
 - [[Personaggi/DrVexor\|DrVexor]]
-- [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
+- [[Personaggi/Luthien\|Luthien]]
 - [[Personaggi/Organizzazioni/Daywish\|Daywish]]
+- [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
+- [[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
 - [[Personaggi/Sofia\|Sofia]]
 - [[Personaggi/Tricruxia\|Tricruxia]]
 - [[Personaggi/Zifarion\|Zifarion]]
-- [[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
 
 { .block-language-dataview}
 ## Luoghi
 ### Città e insediamenti
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
-- [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
 - [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
-- [[Luoghi/Città e Insediamenti/Pozzuoli\|Pozzuoli]]
+- [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
+- [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 
 { .block-language-dataview}
 ### Luoghi Mistici
-- [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
 
 { .block-language-dataview}
 ### Altri Luoghi
@@ -39,16 +39,16 @@
 
 { .block-language-dataview}
 ## Artefatti
-- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
 - [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
-- [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
-- [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
-- [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
-- [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 - [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
-- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
+- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
+- [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
+- [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
+- [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
 - [[Artefatti/Il Velo\|Il Velo]]
+- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Falce Della Morte\|Falce Della Morte]]
+- [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 
 { .block-language-dataview}
 [[Temi e Questioni\|Temi e Questioni]]
