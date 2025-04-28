@@ -4,14 +4,14 @@
 
 # Menu
 ## PERSONAGGI E ORGANIZZAZIONI
-- [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Asphodel\|Asphodel]]
-- [[Personaggi/Crane Merrino\|Crane Merrino]]
+- [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Billy\|Billy]]
 - [[Personaggi/Drathen\|Drathen]]
-- [[Personaggi/Miret\|Miret]]
-- [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Crane Merrino\|Crane Merrino]]
 - [[Personaggi/Luthien\|Luthien]]
+- [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Miret\|Miret]]
 - [[Personaggi/Organizzazioni/Daywish\|Daywish]]
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
 - [[Personaggi/Personaggi e Organizzazioni\|Personaggi e Organizzazioni]]
@@ -23,15 +23,15 @@
 ## Luoghi
 ### Città e insediamenti
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
+- [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 - [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
 - [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
-- [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 
 { .block-language-dataview}
 ### Luoghi Mistici
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
-- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 
 { .block-language-dataview}
 ### Altri Luoghi
@@ -40,14 +40,14 @@
 { .block-language-dataview}
 ## Artefatti
 - [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
-- [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
 - [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
+- [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
 - [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
 - [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
 - [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
 - [[Artefatti/Il Velo\|Il Velo]]
-- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Falce Della Morte\|Falce Della Morte]]
+- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 
 { .block-language-dataview}
