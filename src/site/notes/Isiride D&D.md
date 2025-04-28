@@ -48,6 +48,7 @@
 - [[Artefatti/Falce Della Morte\|Falce Della Morte]]
 - [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
+- [[Artefatti/Pietra del Linguaggio\|Pietra del Linguaggio]]
 
 { .block-language-dataview}
 ## 🔖Altri Menu
