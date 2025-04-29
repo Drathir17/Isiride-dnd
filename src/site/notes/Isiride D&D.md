@@ -2,61 +2,76 @@
 {"dg-publish":true,"permalink":"/isiride-d-and-d/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+
 # 📚Menu
-## 🧚🏻‍♀️Personaggi e Organizzazioni 
+
+## 🧚🏻‍♀️Personaggi e Organizzazioni
+
 - [[Personaggi/Asphodel\|Asphodel]]
-- [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Billy\|Billy]]
+- [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Drathen\|Drathen]]
-- [[Personaggi/Crane Merrino\|Crane Merrino]]
 - [[Personaggi/Luthien\|Luthien]]
-- [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Crane Merrino\|Crane Merrino]]
 - [[Personaggi/Miret\|Miret]]
-- [[Personaggi/Organizzazioni/Daywish\|Daywish]]
+- [[Personaggi/DrVexor\|DrVexor]]
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
+- [[Personaggi/Organizzazioni/Daywish\|Daywish]]
 - [[Personaggi/Sofia\|Sofia]]
-- [[Personaggi/Tricruxia\|Tricruxia]]
 - [[Personaggi/Zifarion\|Zifarion]]
+- [[Personaggi/Tricruxia\|Tricruxia]]
+- [[Personaggi/Vecna\|Vecna]]
 
 { .block-language-dataview}
+
 ## 📍Luoghi
+
 ### 🏙️Città e insediamenti
+
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
 - [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 - [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
 - [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
 
 { .block-language-dataview}
+
 ### ⛪Luoghi Mistici
+
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
-- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 
 { .block-language-dataview}
+
 ### 📌Altri Luoghi
+
 - [[Luoghi/Altri Luoghi/Archivio delle Ere Perdute\|Archivio delle Ere Perdute]]
 
 { .block-language-dataview}
+
 ## ⚔️Artefatti
-- [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
-- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
-- [[Artefatti/Cristallo della mente dell'Illithid\|Cristallo della mente dell'Illithid]]
+
 - [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
 - [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
 - [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
-- [[Artefatti/Il Velo\|Il Velo]]
-- [[Artefatti/Falce Della Morte\|Falce Della Morte]]
+- [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
+- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
 - [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
-- [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
+- [[Artefatti/Il Velo\|Il Velo]]
 - [[Artefatti/Pietra del Linguaggio\|Pietra del Linguaggio]]
+- [[Artefatti/Falce Della Morte\|Falce Della Morte]]
+- [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
+- [[Artefatti/Crystal Brian\|Crystal Brian]]
 
 { .block-language-dataview}
+
 ## 🔖Altri Menu
 
 [[Temi e Questioni\|Temi e Questioni]]
 [[Personaggi Chiave\|Evoluzione dei Personaggi]]
 
 # ISIRIDE
+
 L'impero di Isiride vive un’era di pace apparente sotto il dominio dell’imperatore Aureliandros De Sanctis. I territori dell’impero sono vasti e variegati, con grandi città che brillano nel lusso più sfrenato. Queste città sono governate da gilde potenti o nobili locali, che spesso sono solo marionette nelle mani di associazioni criminali che tirano realmente le fila del potere.
 
 Nei villaggi e nei paesi più piccoli, la situazione è ben diversa. I dazi sempre più alti imposti dall’impero stanno mettendo a dura prova la popolazione, creando un equilibrio sottilissimo che rischia di spezzarsi da un momento all’altro. Mercenari e gruppi di rivoltosi iniziano a prendere piede, creando focolai di rivolta che l’esercito imperiale è costretto a sedare con la forza.
@@ -74,5 +89,3 @@ La magia, un tempo parte integrante della società, è ora vista con sospetto e 
 In tutto Isiride, il culto de Le tre Croci è il più diffuso. I fedeli si riuniscono in preghiera in ogni città o borgo, celebrando riti e cerimonie che uniscono la popolazione. Questo culto, che un tempo era legato principalmente agli elfi, è diventato nel corso dei secoli il culto del popolo. Secondo le leggende, Tricruxia veglia sul Velo, una barriera mistica che separa il mondo dei mortali dalle dimensioni oscure e pericolose. Le sue tre croci sono i pilastri che mantengono il Velo intatto, impedendo alle creature maligne di oltrepassarlo e invadere il reame terreno.
 
 La diffusione del culto delle [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]] ha contribuito a creare un senso di unità e appartenenza tra le diverse razze dell’impero. Tuttavia, nonostante questa apparente armonia, le tensioni sociali e politiche sono sempre in agguato, pronte a esplodere in qualsiasi momento.
-
----

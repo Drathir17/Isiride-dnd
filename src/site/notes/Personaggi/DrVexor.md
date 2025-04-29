@@ -10,3 +10,5 @@ Dr. Vexor è un Kyton alto e snello, con la pelle pallida e cicatrici rituali ch
 ---
 
 **Storia:** Dr. Vexor era un tempo un medico umano che cercava la conoscenza proibita. La sua ossessione per la vita eterna e la tortura lo portò a fare un patto con i Kyton, trasformandosi infine in uno di loro. Ora, serve i signori di Avernus come chirurgo e torturatore, sempre alla ricerca di nuove vittime su cui sperimentare. 
+
+Dopo esser stato sconfitto dal [[Personaggi/Alteryx\|Alteryx]] [[Personaggi/Drathen\|Drathen]] [[Personaggi/Luthien\|Luthien]] e [[Personaggi/Sofia\|Sofia]], la sua testa , staccata dal suo corpo con la [[Artefatti/Falce Della Morte\|Falce Della Morte]] da Sofia, è stato portato a [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]] e collocato nel [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
