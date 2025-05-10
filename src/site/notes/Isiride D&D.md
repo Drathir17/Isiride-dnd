@@ -7,16 +7,16 @@
 
 ## 🧚🏻‍♀️Personaggi e Organizzazioni
 
-- [[Personaggi/Asphodel\|Asphodel]]
-- [[Personaggi/Billy\|Billy]]
 - [[Personaggi/Alteryx\|Alteryx]]
-- [[Personaggi/Drathen\|Drathen]]
-- [[Personaggi/Luthien\|Luthien]]
-- [[Personaggi/Miret\|Miret]]
+- [[Personaggi/Billy\|Billy]]
+- [[Personaggi/Asphodel\|Asphodel]]
 - [[Personaggi/Crane Merrino\|Crane Merrino]]
+- [[Personaggi/Drathen\|Drathen]]
 - [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Luthien\|Luthien]]
 - [[Personaggi/Organizzazioni/Daywish\|Daywish]]
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
+- [[Personaggi/Miret\|Miret]]
 - [[Personaggi/Tricruxia\|Tricruxia]]
 - [[Personaggi/Sofia\|Sofia]]
 - [[Personaggi/Vecna\|Vecna]]
@@ -30,16 +30,16 @@
 
 - [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
-- [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
 - [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
+- [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
 
 { .block-language-dataview}
 
 ### ⛪Luoghi Mistici
 
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Morte\|Tempio della Croce della Morte]]
-- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 - [[Luoghi/Luoghi Mistici/Tempio della Croce della Rinascita\|Tempio della Croce della Rinascita]]
+- [[Luoghi/Luoghi Mistici/Tempio della Croce della Vita\|Tempio della Croce della Vita]]
 
 { .block-language-dataview}
 
@@ -51,19 +51,19 @@
 
 ## ⚔️Artefatti
 
+- [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
+- [[Artefatti/Crystal Brian\|Crystal Brian]]
+- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
 - [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
 - [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
 - [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
-- [[Artefatti/Crystal Brian\|Crystal Brian]]
-- [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
-- [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
-- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
-- [[Artefatti/Il Velo\|Il Velo]]
 - [[Artefatti/Falce Della Morte\|Falce Della Morte]]
+- [[Artefatti/Il Velo\|Il Velo]]
+- [[Artefatti/Mano di Vecna\|Mano di Vecna]]
+- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
+- [[Artefatti/Occhio di Vecna\|Occhio di Vecna]]
 - [[Artefatti/Pietra del Linguaggio\|Pietra del Linguaggio]]
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
-- [[Artefatti/Mano di Vecna\|Mano di Vecna]]
-- [[Artefatti/Occhio di Vecna\|Occhio di Vecna]]
 
 { .block-language-dataview}
 
