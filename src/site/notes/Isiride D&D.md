@@ -7,19 +7,19 @@
 
 ## 🧚🏻‍♀️Personaggi e Organizzazioni
 
-- [[Personaggi/Alteryx\|Alteryx]]
-- [[Personaggi/Billy\|Billy]]
 - [[Personaggi/Asphodel\|Asphodel]]
-- [[Personaggi/Crane Merrino\|Crane Merrino]]
+- [[Personaggi/Billy\|Billy]]
 - [[Personaggi/Drathen\|Drathen]]
-- [[Personaggi/DrVexor\|DrVexor]]
+- [[Personaggi/Alteryx\|Alteryx]]
 - [[Personaggi/Luthien\|Luthien]]
+- [[Personaggi/Miret\|Miret]]
+- [[Personaggi/Crane Merrino\|Crane Merrino]]
 - [[Personaggi/Organizzazioni/Daywish\|Daywish]]
 - [[Personaggi/Organizzazioni/Le Tre Croci\|Le Tre Croci]]
-- [[Personaggi/Miret\|Miret]]
+- [[Personaggi/DrVexor\|DrVexor]]
 - [[Personaggi/Tricruxia\|Tricruxia]]
-- [[Personaggi/Sofia\|Sofia]]
 - [[Personaggi/Vecna\|Vecna]]
+- [[Personaggi/Sofia\|Sofia]]
 - [[Personaggi/Zifarion\|Zifarion]]
 
 { .block-language-dataview}
@@ -30,8 +30,8 @@
 
 - [[Luoghi/Città e Insediamenti/Oliuzop\|Oliuzop]]
 - [[Luoghi/Città e Insediamenti/Auremaris Acheron\|Auremaris Acheron]]
-- [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
 - [[Luoghi/Città e Insediamenti/Port Rifort\|Port Rifort]]
+- [[Luoghi/Città e Insediamenti/Waterdeep\|Waterdeep]]
 
 { .block-language-dataview}
 
@@ -51,18 +51,18 @@
 
 ## ⚔️Artefatti
 
+- [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
+- [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
+- [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
 - [[Artefatti/Arco divino dell'amore\|Arco divino dell'amore]]
 - [[Artefatti/Crystal Brian\|Crystal Brian]]
 - [[Artefatti/Ciondolo con granchio d'argento\|Ciondolo con granchio d'argento]]
-- [[Artefatti/Donati dal Kraken/Bastone magico\|Bastone magico]]
-- [[Artefatti/Donati dal Kraken/Scudo riflettente\|Scudo riflettente]]
-- [[Artefatti/Donati dal Kraken/Sandali magici\|Sandali magici]]
 - [[Artefatti/Falce Della Morte\|Falce Della Morte]]
 - [[Artefatti/Il Velo\|Il Velo]]
-- [[Artefatti/Mano di Vecna\|Mano di Vecna]]
-- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Occhio di Vecna\|Occhio di Vecna]]
+- [[Artefatti/Mano di Vecna\|Mano di Vecna]]
 - [[Artefatti/Pietra del Linguaggio\|Pietra del Linguaggio]]
+- [[Artefatti/Maschera del Senza Faccia\|Maschera del Senza Faccia]]
 - [[Artefatti/Sfera dell'annientamento\|Sfera dell'annientamento]]
 
 { .block-language-dataview}
